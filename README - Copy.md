@@ -86,27 +86,7 @@ towards the goal.
 - **yup**: `JavaScript` schema builder for value parsing and validation.
 - **vite**: Next generation frontend tool that sets up quickly.
 
-## Developers
 
-- [@KristinaHranovska](https://github.com/KristinaHranovska) - implementation of
-  `WelcomeSection`, `registration`, `authentication`, `Google` authentication,
-  password `recovery`, international `localization` addition, `animations`
-- [@izzwerg](https://github.com/izzwerg) - implementation of `UserSettingsModal`
-- [@Me1nychuk](https://github.com/Me1nychuk) - implementation of `MonthInfo`
-  component, display of `statistical` water consumption data per month,
-  `onboarding` functionality for new users, assistance in token refresh
-  implementation, data updates using `Redux`
-- [@Olena-Ihnatenko](https://github.com/Olena-Ihnatenko) - `LogOut` modal window
-- [@anastasiia-kushch](https://github.com/anastasiia-kushch) - implementation of
-  static part of `AdvantagesSection`, display of registered users count
-- [@sno0wi](https://github.com/sno0wi) - implementation of `DailyInfo` component
-- [@Sw1tlana](https://github.com/Sw1tlana) - implementation of `WaterModal`
-  (addition and editing)
-- [@peychma](https://github.com/peychma) - implementation of `DeleteWaterModal`
-- [@bezkagoit](https://github.com/bezkagoit) - implementation of `WaterMainInfo`
-  component
-- [@Rybailo](https://github.com/Rybailo) - implementation of `UserPanel`
-  component
 
 ## Links
 
